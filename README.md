@@ -44,13 +44,13 @@ Utilized a range of Python visualization libraries to reveal hidden patterns:
 - Line Charts
 
 ## 🔍 Key Insights
-🚘 Business rides far outnumber personal rides.
-📅 Fridays see the highest volume of rides in a week.
-⏰ Peak ride bookings occur in the afternoon (10 AM – 3 PM).
-❄️ Ride bookings drop significantly in winter months (Nov, Dec, Jan).
-📍 Meetings are the most frequently stated purpose for business travel.
-📏 Most rides are under 25 miles, with usage dropping as distance increases.
-❓ A large number of rides have missing purpose labels, highlighting a data quality challenge often seen in real-world datasets.
+- 🚘 Business rides far outnumber personal rides.
+- 📅 Fridays see the highest volume of rides in a week.
+- ⏰ Peak ride bookings occur in the afternoon (10 AM – 3 PM).
+- ❄️ Ride bookings drop significantly in winter months (Nov, Dec, Jan).
+- 📍 Meetings are the most frequently stated purpose for business travel.
+- 📏 Most rides are under 25 miles, with usage dropping as distance increases.
+- ❓ A large number of rides have missing purpose labels, highlighting a data quality challenge often seen in real-world datasets.
 
 ## 🛠️ Tools & Technologies
 - Python
